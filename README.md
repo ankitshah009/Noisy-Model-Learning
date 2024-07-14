@@ -1,4 +1,4 @@
-# Noisy Model Leanring 
+# Noisy Model Learning 
 
 Code for ICLR 2024 Spotlight Paper "[Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks](https://arxiv.org/abs/2309.17002)"
 
